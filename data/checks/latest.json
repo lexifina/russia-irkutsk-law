@@ -1,0 +1,110 @@
+{
+ "generated": "2026-11-24T13:38:07Z",
+ "latest": {
+  "pravo-irkutsk|russia/irkutsk/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 1635,
+    "current": 1621,
+    "gone": 0,
+    "held": 1621,
+    "newest_in_repo": "2026-10-27",
+    "pending": 14,
+    "repo": 1621,
+    "source_in_scope": 1635
+   },
+   "check_id": "ru-pravo-irkutsk-20261124T133517Z",
+   "commits": {
+    "count": 3,
+    "from": "4f4f4e8537557babc09e7550a0b72768bd38ad77",
+    "to": "08a5035366fc18805ce42defe37fd2c87003af1f"
+   },
+   "corpus": "russia/irkutsk/acts",
+   "error": null,
+   "finished": "2026-11-24T13:38:06Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region38: 1635 law-type documents listed (every page read); 1621 held here; 14 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "3800202611090002",
+     "3800202611090003",
+     "3800202611090004",
+     "3800202611090008",
+     "3800202611090009",
+     "3800202611090012",
+     "3800202611090014",
+     "3800202611090015",
+     "3800202611090016",
+     "3800202611090017",
+     "3800202611090019",
+     "3800202611090021",
+     "3800202611090023",
+     "3800202611100001"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 12,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "3800202611090002",
+     "3800202611090003",
+     "3800202611090004",
+     "3800202611090008",
+     "3800202611090009",
+     "3800202611090012",
+     "3800202611090014",
+     "3800202611090015",
+     "3800202611090016",
+     "3800202611090017",
+     "3800202611090019",
+     "3800202611090021",
+     "3800202611090023",
+     "3800202611100001"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "1635 law-type documents in block region38; newest published 2026-11-10",
+   "source": "pravo-irkutsk",
+   "started": "2026-11-24T13:35:17Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 2,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 12,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 12,
+    "versions_checked": 431,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}

@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-irkutsk",
+   "kind": "legislation",
+   "name": {
+    "en": "Irkutsk Oblast: Official Internet Portal of Legal Information (region38)",
+    "ru": "Irkutsk Oblast: Официальный интернет-портал правовой информации (region38)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region38",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/irkutsk/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-irkutsk-law",
+   "group": "pravo",
+   "tz": "Asia/Irkutsk"
+  }
+ ]
+}

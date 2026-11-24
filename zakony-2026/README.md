@@ -1,6 +1,6 @@
 # Irkutsk Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 25 versions, from 2026-02-05 (latest in force: 2026-10-27) · <http://publication.pravo.gov.ru/documents/block/region38>
+Законы 2026 · 27 versions, from 2026-02-05 (latest in force: 2026-11-10) · <http://publication.pravo.gov.ru/documents/block/region38>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -85,4 +85,18 @@
 | Закон № 8-ОЗ | [8-oz.md](8-oz.md) | 1 | 2026-02-13 |
 | Закон № 80-ОЗ | [80-oz.md](80-oz.md) | 1 | 2026-10-09 |
 | Закон № 81-ОЗ | [81-oz.md](81-oz.md) | 1 | 2026-10-27 |
+| Закон № 82-ОЗ | [82-oz.md](82-oz.md) | 1 | 2026-11-10 |
+| Закон № 83-ОЗ | [83-oz.md](83-oz.md) | 1 | 2026-11-09 |
+| Закон № 84-ОЗ | [84-oz.md](84-oz.md) | 1 | 2026-11-09 |
+| Закон № 85-ОЗ | [85-oz.md](85-oz.md) | 1 | 2026-11-09 |
+| Закон № 86-ОЗ | [86-oz.md](86-oz.md) | 1 | 2026-11-09 |
+| Закон № 87-ОЗ | [87-oz.md](87-oz.md) | 1 | 2026-11-09 |
+| Закон № 88-ОЗ | [88-oz.md](88-oz.md) | 1 | 2026-11-09 |
+| Закон № 89-ОЗ | [89-oz.md](89-oz.md) | 1 | 2026-11-09 |
 | Закон № 9-ОЗ | [9-oz.md](9-oz.md) | 1 | 2026-02-13 |
+| Закон № 90-ОЗ | [90-oz.md](90-oz.md) | 1 | 2026-11-09 |
+| Закон № 91-ОЗ | [91-oz.md](91-oz.md) | 1 | 2026-11-09 |
+| Закон № 92-ОЗ | [92-oz.md](92-oz.md) | 1 | 2026-11-09 |
+| Закон № 93-ОЗ | [93-oz.md](93-oz.md) | 1 | 2026-11-09 |
+| Закон № 94-ОЗ | [94-oz.md](94-oz.md) | 1 | 2026-11-09 |
+| Закон № 95-ОЗ | [95-oz.md](95-oz.md) | 1 | 2026-11-09 |

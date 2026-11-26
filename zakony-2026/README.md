@@ -1,6 +1,6 @@
 # Irkutsk Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 27 versions, from 2026-02-05 (latest in force: 2026-11-10) · <http://publication.pravo.gov.ru/documents/block/region38>
+Законы 2026 · 28 versions, from 2026-02-05 (latest in force: 2026-11-25) · <http://publication.pravo.gov.ru/documents/block/region38>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -100,3 +100,4 @@
 | Закон № 93-ОЗ | [93-oz.md](93-oz.md) | 1 | 2026-11-09 |
 | Закон № 94-ОЗ | [94-oz.md](94-oz.md) | 1 | 2026-11-09 |
 | Закон № 95-ОЗ | [95-oz.md](95-oz.md) | 1 | 2026-11-09 |
+| Закон № 96-ОЗ | [96-oz.md](96-oz.md) | 1 | 2026-11-25 |

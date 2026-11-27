@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:15:53Z",
+ "generated": "2026-11-27T06:08:27Z",
  "latest": {
   "pravo-irkutsk|russia/irkutsk/acts": {
    "attempt": 1,
@@ -13,31 +13,25 @@
    },
    "census": {
     "checked": 1636,
-    "current": 1635,
+    "current": 1636,
     "gone": 0,
-    "held": 1635,
-    "newest_in_repo": "2026-11-10",
-    "pending": 1,
-    "repo": 1635,
+    "held": 1636,
+    "newest_in_repo": "2026-11-25",
+    "pending": 0,
+    "repo": 1636,
     "source_in_scope": 1636
    },
-   "check_id": "ru-pravo-irkutsk-20261126T052436Z",
-   "commits": {
-    "count": 2,
-    "from": "3bf7af4a5f0dc7ed82dfc64a92686af97bd72443",
-    "to": "1a3fdfde3bafaa35f9953a9ca82159ed96ce55b2"
-   },
+   "check_id": "ru-pravo-irkutsk-20261127T052042Z",
+   "commits": null,
    "corpus": "russia/irkutsk/acts",
    "error": null,
-   "finished": "2026-11-26T05:25:30Z",
+   "finished": "2026-11-27T05:21:21Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region38: 1636 law-type documents listed (every page read); 1635 held here; 1 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region38: 1636 law-type documents listed (every page read); 1636 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "3800202611250002"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -45,28 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "3800202611250002"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1636 law-type documents in block region38; newest published 2026-11-25",
    "source": "pravo-irkutsk",
-   "started": "2026-11-26T05:24:36Z",
+   "started": "2026-11-27T05:20:42Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261126-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,

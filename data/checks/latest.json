@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:08:27Z",
+ "generated": "2026-11-28T06:22:47Z",
  "latest": {
   "pravo-irkutsk|russia/irkutsk/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1636,
     "source_in_scope": 1636
    },
-   "check_id": "ru-pravo-irkutsk-20261127T052042Z",
+   "check_id": "ru-pravo-irkutsk-20261128T052936Z",
    "commits": null,
    "corpus": "russia/irkutsk/acts",
    "error": null,
-   "finished": "2026-11-27T05:21:21Z",
+   "finished": "2026-11-28T05:30:16Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region38: 1636 law-type documents listed (every page read); 1636 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1636 law-type documents in block region38; newest published 2026-11-25",
    "source": "pravo-irkutsk",
-   "started": "2026-11-27T05:20:42Z",
+   "started": "2026-11-28T05:29:36Z",
    "unexplained": 0,
    "update": {
     "parts": []
